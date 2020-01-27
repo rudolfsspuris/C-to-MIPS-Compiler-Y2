@@ -1,6 +1,6 @@
 # C to MIPS Compiler
 
-The task we were given was to implement features of a C89 to MIPS compiler. Notable files to take a closer look are: 
+The task we were given was to implement features of a C89 to MIPS compiler. Notable files to take a closer look at are: 
 
   src/ast_compile.cpp - Contanins the functions that traverse and output MIPS code for each class in the parse tree. 
   
